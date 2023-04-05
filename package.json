@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Sagarbisht07.github.io/",
+  "homepage": "https://sagarbisht07.github.io/",
   "name": "github",
   "version": "0.1.0",
   "private": true,
@@ -11,6 +11,7 @@
     "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-github-calendar": "^3.4.0",
     "react-icons": "^4.7.1",
     "react-scripts": "5.0.1",
     "react-slick": "^0.29.0",
