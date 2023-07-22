@@ -1,8 +1,8 @@
 import React from "react";
 import { motion } from "framer-motion";
 import css from "./Portfolio.module.scss";
-
-import { fadeIn, staggerChildren, textVariant, textVariant2 } from "../../utils/motion";
+import {  staggerChildren, textVariant } from "../../utils/motion";
+import ProjectsMain from "./ProjectsMain";
 import Projects from "../Projects";
 const Port = () => {
   return (
@@ -29,7 +29,7 @@ const Port = () => {
 
         <div className={`${css.showCase}`}>
            <div>
-           <Projects/>
+          <Projects/>
            </div>
         </div>
       </div>

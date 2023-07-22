@@ -38,7 +38,7 @@ export const projectExperience = [
   {
     HTML: "Redux",
     CSS: "Photoshop",
-    JS: "Scss",
+    JS: "mongoose",
     bg: "#286F6C",
     logoHtml:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPIdHfvXWNmbue7Fz10rYEtPS0XY7evw3Y8_QUuxk8tk4GUMAC&s",

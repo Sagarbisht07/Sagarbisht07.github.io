@@ -5,8 +5,9 @@ import "./styles/global.scss";
 import "./styles/index.css";
 
 
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
+root.render(     
     <App />
 );
 

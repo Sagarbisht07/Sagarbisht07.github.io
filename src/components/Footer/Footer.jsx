@@ -96,7 +96,7 @@ const Footer = () => {
                 }}
               />
               <a
-                href="https://drive.google.com/file/d/12Ce7fSmrtT9R9uwuNRt2hVev-NjFcXv-/view?usp=share_link"
+                href="https://drive.google.com/drive/folders/1HWEql0wcJa4aAxMpithfqgofxtuNne1r"
                 style={{
                   color: "rgb(15, 49, 65)",
                   textDecoration: "none",

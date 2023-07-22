@@ -1,8 +1,47 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: "Eudoxus Sans", sans-serif;
-    scroll-behavior: smooth;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Eudoxus Sans", sans-serif;
+  scroll-behavior: smooth;
+}
+@media screen and (max-width: 969px) {
+  .github-stats-card {
+    flex-wrap: wrap;
   }
-  
+
+  .github-stats-card :nth-child(2) {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 870px) {
+  .swiper-slide{
+     flex-direction: column;
+  }
+
+  .title img{
+    display: none;
+ }
+ .title h3{
+  display: none;
+}
+.title2 h1{
+  margin-left: -16rem;
+ 
+}
+
+.link {
+  display: flex;
+  gap: 1rem;
+ flex-direction: row;
+ margin-right: 10rem;
+ width: 40%;
+
+}
+
+.Img img{
+  display: none;
+}
+ 
+}
